@@ -98,7 +98,7 @@ def count_unique_antinode_locations_part2(grid):
     return len(antinode_set)
 
 
-grid = [line.strip() for line in  open('C:\\Users\\cdrec\\OneDrive\\Documents\\AdventOfCode\\2024\\Day 8\\input.txt', 'r') if line.strip()]
+grid = [line.strip() for line in  open('C:\\Users\\<redacted>\\OneDrive\\Documents\\AdventOfCode\\2024\\Day 8\\input.txt', 'r') if line.strip()]
 
 part1 = count_unique_antinode_locations_part1(grid)
 part2 = count_unique_antinode_locations_part2(grid)
