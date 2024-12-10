@@ -13,6 +13,8 @@ Notable finishes. Chose the number of participants based on the number of people
 | 4   | 3486       | 98.26%            | 2644       | 98.68%            |
 | 5   | 387       | 99.81%            | 367       | 99.82%            |
 | 6   | 481       | 99.76%            | 1533       | 99.23%            |
+| 8   | 65       | 99.97%            | 51       | 99.97%            |
+| 10   | 156       | 99.92%            | 132       | 99.93%            |
 
 ---
 
