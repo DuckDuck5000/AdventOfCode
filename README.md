@@ -1,7 +1,7 @@
 # AdventOfCode
 
 
-Notable finishes. Chose the number of participants based on the number of people who got two stars on day 1 of the year. Not updated that frequently.
+Notable finishes. Chose the number of participants based on the number of people who got two stars on day 1 of the year (Major data crime i know)
 
 
 ## 2024 (200,000 Participants)
